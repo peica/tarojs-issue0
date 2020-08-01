@@ -1,0 +1,24 @@
+{
+	"miniprogramRoot": ".dist/",
+	"projectname": "myApp2",
+	"description": "",
+	"appid": "wx59ccfbf9f191f22a",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"preloadBackgroundData": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false,
+		"coverView": true,
+		"showShadowRootInWxmlPanel": false,
+		"scopeDataCheck": false,
+		"useCompilerModule": false
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"sitemapLocation": "sitemap.json",
+	"condition": {}
+}
